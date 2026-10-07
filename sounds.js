@@ -18,7 +18,8 @@ window.SOUNDBOARD_SOUNDS = [
   { name: "Insinööri", file: "audio/Insinööri.mp3" },
   { name: "IsoMuna", file: "audio/IsoMuna.mp3" },
   { name: "Jammu", file: "audio/Jammu.mp3" },
-  { name: "Kotkas", file: "audio/Kotkas.mp3" },
+  { name: "KoskaHänOn", file: "audio/KoskaHänOn.mp3" },
+  { name: "Kotka", file: "audio/Kotkas.mp3" },
   { name: "MunaSuuhun", file: "audio/MunaSuuhun.mp3" },
   { name: "Naiskuski", file: "audio/Naiskuski.mp3" },
   { name: "NiinNopea", file: "audio/NiinNopea.mp3" },
@@ -28,6 +29,7 @@ window.SOUNDBOARD_SOUNDS = [
   { name: "PASKA", file: "audio/PASKA.mp3" },
   { name: "PASKACRASH", file: "audio/PASKACRASH.mp3" },
   { name: "Sikanauta", file: "audio/Sikanauta.mp3" },
+  { name: "TöihinSieltä", file: "audio/TöihinSieltä.mp3" },
   { name: "UIIII", file: "audio/UIIII.mp3" },
   { name: "VitsinN-", file: "audio/VitsinN-.mp3" },
   { name: "VoitTyöntää", file: "audio/VoitTyöntää.mp3" }
